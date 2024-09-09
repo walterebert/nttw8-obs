@@ -1,0 +1,7 @@
+.directory
+.DS_Store
+__MACOSX
+*~
+*.swp
+*.log
+*.bak
